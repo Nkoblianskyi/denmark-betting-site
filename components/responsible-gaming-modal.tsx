@@ -32,7 +32,7 @@ export function ResponsibleGamingModal({ isOpen, onClose }: ResponsibleGamingMod
             <h3 className="font-semibold">Hjælp og støtte:</h3>
             <div className="flex flex-wrap gap-2">
               <Button variant="outline" asChild>
-                <Link href="https://stopspillet.dk" target="_blank">
+                <Link href="https://www.stopspillet.dk/" target="_blank">
                   StopSpillet.dk
                 </Link>
               </Button>

@@ -356,7 +356,7 @@ export function InfoSections() {
                   <ul className="text-green-700 space-y-2">
                     <li>
                       •{" "}
-                      <a href="https://stopspillet.dk" className="underline font-semibold hover:text-green-900">
+                      <a href="https://www.stopspillet.dk/" className="underline font-semibold hover:text-green-900">
                         StopSpillet.dk
                       </a>{" "}
                       - Gratis rådgivning

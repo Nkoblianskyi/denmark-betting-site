@@ -140,7 +140,7 @@ export function Footer() {
             <ul className="space-y-2 text-gray-400 text-sm sm:text-base">
               <li>
                 <Link
-                  href="https://stopspillet.dk"
+                  href="https://www.stopspillet.dk/"
                   target="_blank"
                   className="hover:text-white transition-colors duration-300 hover:translate-x-1 transform inline-block"
                 >
@@ -167,7 +167,7 @@ export function Footer() {
               </li>
               <li>
                 <Link
-                  href="https://www.gamecare.org.uk"
+                  href="https://www.gamcare.org.uk/"
                   target="_blank"
                   className="hover:text-white transition-colors duration-300 hover:translate-x-1 transform inline-block"
                 >
@@ -190,7 +190,7 @@ export function Footer() {
             <strong className="text-red-400">Ansvarligt spil advarsel:</strong> Betting og gambling kan udvikle sig til
             afhængighed og resultere i alvorlige økonomiske konsekvenser. Spil kun med penge du har råd til at miste, og
             søg professionel hjælp hvis dit spillemønster bliver problematisk. Kontakt{" "}
-            <Link href="https://stopspillet.dk" target="_blank" className="text-amber-400 hover:underline font-medium">
+            <Link href="https://www.stopspillet.dk/" target="_blank" className="text-amber-400 hover:underline font-medium">
               StopSpillet.dk
             </Link>{" "}
             for øjeblikkelig støtte og vejledning.
