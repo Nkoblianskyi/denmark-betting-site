@@ -54,7 +54,7 @@ export const bettingSites: BettingSite[] = [
     id: 5,
     name: "Betinia",
     logo: "/betinia.png",
-    url: "https://betinia.dk/dk/sport",
+    url: "https://betinia.dk/dk/promotions",
     bonus: "Velkommen bonus op til 500 kr.",
     rating: 4.8,
     reviews: 14656,

@@ -21,7 +21,7 @@ export function Footer() {
             />
           </Link>
           <Link
-            href="https://stopspillet.dk"
+            href="https://www.stopspillet.dk/"
             target="_blank"
             className="hover:opacity-100 transition-all duration-300 transform hover:scale-110 bg-white rounded p-2"
           >
@@ -60,7 +60,7 @@ export function Footer() {
             />
           </Link>
           <Link
-            href="https://www.gamecare.org.uk"
+            href="https://www.gamcare.org.uk/"
             target="_blank"
             className="hover:opacity-100 transition-all duration-300 transform hover:scale-110 bg-white rounded p-2"
           >
